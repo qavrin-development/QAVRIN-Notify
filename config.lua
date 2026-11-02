@@ -2,8 +2,6 @@ Config = {}
 
 Config.Framework = 'auto'
 
--- Check the latest published GitHub release at resource startup.
--- Set to false to disable the version checker.
 Config.EnableVersionCheck = true
 Config.DefaultDuration = 5000
 Config.MaxDuration = 15000
